@@ -6,14 +6,14 @@ public class Main {
     public static void main(String[] args) {
 //        Scanner Function
        Scanner sc = new Scanner (System.in);
-       System.out.print("Hello World!\n");
+       System.out.println("Hello World!\n");
 
-       System.out.print("My Name Is Yogesh Jha \n");
+       System.out.println("My Name Is Yogesh Jha \n");
 //       Taking Input from the user
-        System.out.print("Enter your name \n");
+        System.out.println("Enter your name \n");
         String userName = sc.nextLine();
 //        Printing the output which is given by the user
-        System.out.print("Your name is " + userName);
+        System.out.println("Your name is " + userName);
 
     }
 }
