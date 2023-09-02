@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 //        Scanner Function
        Scanner sc = new Scanner (System.in);
-       System.out.println("Hello World!\n");
+       System.out.println("Hello World! This is my First Java code\n");
 
        System.out.println("My Name Is Yogesh Jha \n");
 //       Taking Input from the user
