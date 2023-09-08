@@ -11,7 +11,9 @@ public class Taking_Input_Java {
 //        int sum = a+b;
 //        System.out.println("The sum of these numbers is ");
 //        System.out.println(sum);
-        boolean b = sc.hasNextInt();
-        System.out.println(b);
+//        boolean b = sc.hasNextInt();
+//        System.out.println(b);
+        String str =sc.nextLine();
+        System.out.println(str);
     }
 }
