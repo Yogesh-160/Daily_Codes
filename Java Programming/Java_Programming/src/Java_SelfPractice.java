@@ -18,5 +18,6 @@ public class Java_SelfPractice {
         System.out.println("Multiplication of two numbers is = " + mul);
         System.out.println("Division of two numbers is = " + div);
         System.out.println("Program Ends");
+
     }
 }
