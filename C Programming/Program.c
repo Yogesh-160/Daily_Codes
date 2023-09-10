@@ -1,13 +1,12 @@
-// First C programming Code
-
 #include<stdio.h>
 int main(){
-   
     int a;
-printf("Hello world! Yogesh Jha \n");
-printf("Enter number 1 : ");
-scanf("%d", &a);
-printf("You entered the number %d", a);
-
+printf("Enter the number : ");
+scanf("%d",&a);
+while( a < 20)
+{
+    printf("%d\n",a);
+    a++;
+}
 return 0;
 }
