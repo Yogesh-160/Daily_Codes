@@ -26,7 +26,7 @@ public class Practice_Set_Java_01 {
         double miles = km/1.6;
         System.out.println("Miles = " + miles);*/
 
-//        Q-5
+//        Q-5 Program to check whether the input number is string or not
         System.out.println("Enter your number =  ");
         Scanner sc = new Scanner(System.in);
         System.out.println(sc.hasNextInt());
