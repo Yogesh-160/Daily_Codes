@@ -21,5 +21,11 @@ public class Practice_Set_Java_01 {
         String name = sc.nextLine();
         System.out.println("Hello!" + name + ",have a good day.");*/
 
+//        Q-4 Program to convert kilometer value in miles
+        double km = 7;
+        double miles = km/1.6;
+        System.out.println("Miles = " + miles);
+
+
     }
 }
