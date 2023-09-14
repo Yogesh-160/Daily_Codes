@@ -4,7 +4,9 @@ public class Operators {
         int b = 6%a ;
         double c = 4.8%1.1;
         System.out.println(b);
-        System.out.println(c);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c+a);
     }
 
 }
