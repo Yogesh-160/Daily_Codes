@@ -5,7 +5,7 @@ int main(){
 do
 {
    printf("The value of i is %d\n",i);
-   if(i==4){
+   if(i==10){
     break;
    }
    i++;
