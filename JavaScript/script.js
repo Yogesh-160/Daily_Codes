@@ -19,5 +19,5 @@ let name = "Yogesh";
 console.log(name.length);
 
 let a = prompt("What is your name");
-console.log(a);
+console.log(a.length);
  
