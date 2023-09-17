@@ -20,4 +20,6 @@ console.log(name.length);
 
 let a = prompt("What is your name");
 console.log(a.length);
+
+
  
