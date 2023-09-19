@@ -1,8 +1,9 @@
-//Creating a percentage calculator using JAVA programming 
-import java.util.Scanner;
+//Creating a percentage calculator using JAVA programming
+import java.util.Scanner; //Importing Scanner class
 public class CBSE_Exercise {
     public static void main(String[] args) {
         System.out.println("Java Program to calculate percentage of 5 Subjects");
+
         Scanner sc = new Scanner(System.in);
 //        We can give Scanner name sc or anything.
         System.out.println("Max marks of Hindi = ");
@@ -16,6 +17,8 @@ public class CBSE_Exercise {
         System.out.println("Max marks of Science = ");
         int Sci = sc.nextInt();
         int Total_Marks = Hin+En+Ma+SS+Sci;
+
+//        Taking marks which user got in each subject
 
         System.out.println("Enter Marks of Hindi : ");
          float Hindi = sc.nextFloat();
