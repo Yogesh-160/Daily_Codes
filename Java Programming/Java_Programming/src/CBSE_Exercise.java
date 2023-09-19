@@ -1,3 +1,4 @@
+//Creating a percentage calculator using JAVA programming 
 import java.util.Scanner;
 public class CBSE_Exercise {
     public static void main(String[] args) {

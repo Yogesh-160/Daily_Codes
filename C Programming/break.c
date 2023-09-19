@@ -5,11 +5,11 @@ int main(){
 do
 {
    printf("The value of i is %d\n",i);
-   if(i==10){
+   if(i==9){
     break;
    }
    i++;
-} while (i<=10);
+} while (i<10);
 
 return 0;
 }
