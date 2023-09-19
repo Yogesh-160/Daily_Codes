@@ -6,6 +6,7 @@ public class CBSE_Exercise {
 
         Scanner sc = new Scanner(System.in);
 //        We can give Scanner name sc or anything.
+//        Taking maximum marks of each subject
         System.out.println("Max marks of Hindi = ");
         int Hin = sc.nextInt();
         System.out.println("Max marks of English = ");
