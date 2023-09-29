@@ -14,12 +14,17 @@ else{
   alert("This is not a valid range");
 }*/
 
-/*console.log("The below number shows the length of the string 'Yogesh'");
+console.log("The below number shows the length of the string 'Yogesh'");
 let name = "Yogesh";
 console.log(name.length);
 
 let a = prompt("What is your name");
 console.log(a.length);
-*/
+
+console.log(a.toUpperCase());
+
+console.log(a.toLowerCase());
+
+console.log(slice(2,4));
 
  
