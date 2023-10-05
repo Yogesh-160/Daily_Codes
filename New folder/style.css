@@ -1,0 +1,20 @@
+*{
+    overflow: hidden;
+    padding: 2px;
+    margin: 8px;
+    text-align: left;
+}
+#Signup{
+   background-color: orange;
+   color: yellow;
+}
+#Home{
+    background-color: rgba(0, 0, 0, 0.615);
+}
+#Fname{
+    color: yellow;
+}
+
+#Lname{
+    color: yellow;
+}
