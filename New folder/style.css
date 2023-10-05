@@ -3,18 +3,13 @@
     padding: 2px;
     margin: 8px;
     text-align: left;
+    color: yellow;
 }
 #Signup{
    background-color: orange;
    color: yellow;
 }
-#Home{
-    background-color: rgba(0, 0, 0, 0.615);
-}
-#Fname{
-    color: yellow;
-}
 
-#Lname{
-    color: yellow;
+#Home{
+    background-color: rgba(0, 0, 0, 0.821);
 }
