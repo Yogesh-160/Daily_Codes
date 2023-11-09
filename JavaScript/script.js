@@ -23,6 +23,9 @@ console.log(a.length);
 
 console.log(a.toUpperCase());
 
+
+
+
 console.log(a.toLowerCase());
 
 console.log(slice(2,4));
